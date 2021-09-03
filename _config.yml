@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : "https://cameronmilani.github.io" 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cameronmilani/cameronmilani.github.io"
-teaser                   : "/images/milani2.jpg"
+teaser                   : 
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Cameron Milani"
-  avatar           : "/images/milani2.jpg"
+  avatar           : "milani2.jpg"
   bio              : ""
   location         : "San Diego, CA"
   employer         :
