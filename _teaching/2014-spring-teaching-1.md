@@ -4,7 +4,7 @@ collection: Instructor
 type: "Principles of Economics (ECON101)"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Fall 2020, Spring 2021"
-date: " "
+date: "Fall 2020, Spring 2021 "
 location: "San Diego, CA"
 ---
 
