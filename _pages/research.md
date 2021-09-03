@@ -11,6 +11,6 @@ permalink: /research/
 - - -
 
 **Cardiovascular Mortality Impacts from Leaded Aviation Fuel: Evidence from Piston-Engine Air Traffic
-in North Carolina**. 2021.<br/>
+in North Carolina** (with Heather Klemick, Ron Shadbegian, Dennis Guignet and Linda Bui). <br/>
 
 
