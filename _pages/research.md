@@ -10,8 +10,8 @@ permalink: /research/
 # <center> Working Papers </center>
 - - -
 
-**Cardiovascular Mortality Impacts from Leaded Aviation Fuel: Evidence from Piston-Engine Air Traffic
-in North Carolina** (with Heather Klemick, Dennis Guignet, Ron Shadbegian and Linda Bui). <br/>
+**Cardiovascular Mortality and Leaded Aviation Fuel: Evidence from Piston-Engine Air Traffic in North
+Carolina** (with Heather Klemick, Dennis Guignet, Ron Shadbegian and Linda Bui). <br/>
 <small>[ <a href="#/" onclick="visib('hpt')">Abstract</a> | [Draft][hpt-draft] ]</small>
 
 <div id="hpt" style="display: none; text-align: justify; line-height: 1.2" ><small>
