@@ -23,3 +23,17 @@ Leaded fuel used by piston-engine aircraft is the largest source of airborne lea
 [lbui]: https://www.brandeis.edu/facultyguide/person.html?emplid=a2a26a666400fbde3bf078b9d572fa111027ce61
 [hklemick]: https://scholar.google.com/citations?user=v-sHJEgAAAAJ&hl=en
 [dguigent]: https://economics.appstate.edu/directory/dennis-guignet-phd
+
+[//]: This java script is the button to show abstract
+<script>
+ function visib(id) {
+  var x = document.getElementById(id);
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+</script>
+
+[//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>
