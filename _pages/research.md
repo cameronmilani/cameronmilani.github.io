@@ -11,7 +11,7 @@ permalink: /research/
 - - -
 
 **Cardiovascular Mortality and Leaded Aviation Fuel: Evidence from Piston-Engine Air Traffic in North
-Carolina** (with [Heather Klemick][hklemick], [Dennis Guignet][dguignent], [Ron Shadbegian][rshadbegian] and [Linda Bui][lbui]). <br/>
+Carolina** (with [Heather Klemick][hklemick], [Dennis Guignet][dguigent], [Ron Shadbegian][rshadbegian] and [Linda Bui][lbui]). <br/>
 <small>[ <a href="#/" onclick="visib('avgas')">Abstract</a> | [Draft][Avgas] ]</small>
 
 <div id="avgas" style="display: none; text-align: justify; line-height: 1.2" ><small>
