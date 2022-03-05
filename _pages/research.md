@@ -11,7 +11,7 @@ permalink: /research/
 - - -
 
 **Cardiovascular Mortality and Leaded Aviation Fuel: Evidence from Piston-Engine Air Traffic in North
-Carolina** (with Heather Klemick, Dennis Guignet, Ron Shadbegian and Linda Bui). <br/>
+Carolina** (with [Heather Klemick][hklemick], [Dennis Guignet][dguignent], [Ron Shadbegian][rshadbegian] and [Linda Bui][lbui]). <br/>
 <small>[ <a href="#/" onclick="visib('avgas')">Abstract</a> | [Draft][Avgas] ]</small>
 
 <div id="avgas" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -19,3 +19,7 @@ Leaded fuel used by piston-engine aircraft is the largest source of airborne lea
 </small><br><br/></div>
 
 [Avgas]: {{ site.baseurl }}{% link assets/Avgas.pdf %}
+[rshadbegian]: https://economics.sdsu.edu/faculty/shadbegian
+[lbui]: https://www.brandeis.edu/facultyguide/person.html?emplid=a2a26a666400fbde3bf078b9d572fa111027ce61
+[hklemick]: https://scholar.google.com/citations?user=v-sHJEgAAAAJ&hl=en
+[dguigent]: https://economics.appstate.edu/directory/dennis-guignet-phd
