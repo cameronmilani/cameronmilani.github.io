@@ -7,7 +7,7 @@ permalink: /research/
 <br/> 
 
 
-# <center> Working Papers </center>
+# <center> Publications </center>
 - - -
 
 **Cardiovascular Mortality and Leaded Aviation Fuel: Evidence from Piston-Engine Air Traffic in North
