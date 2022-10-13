@@ -12,4 +12,4 @@ I am a first year Ph.D. student in Economics at Claremont Graduate University. M
 
 I received my undergraduate education in economics from UCLA and went on to pursue a master's degree in economics from San Diego State University.
 
-If you would like to contact me, please send me an email at cameron.milani@cgu.edu.
+If you would like to contact me, please send me an email at cameron.milani`at`cgu`dot`edu.
