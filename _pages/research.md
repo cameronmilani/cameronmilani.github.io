@@ -41,14 +41,13 @@ Leaded fuel used by piston-engine aircraft is the largest source of airborne lea
 # <center> Working Papers </center>
 
 **The Politics of (Cause of) Death** (with [Rebecca Thornton][rthornton])<br/>
-<small>[ <a href="#/" onclick="visib('coroner')">Abstract</a>
+<small>[ <a href="#/" onclick="visib('coroner')">Abstract</a> ]</small>
 
 <div id="coroner" style="display: none; text-align: justify; line-height: 1.2" ><small>
 In 20 U.S. states, coroners—often without formal medical training—are elected along partisan lines, potentially introducing bias into vital statistics. Using a regression discontinuity design and a novel dataset of coroner elections (2006–2023) linked to county-level death records, we estimate the causal effect of a Democrat versus Republican coroner on politically sensitive causes of death, including opioids, COVID-19, and gunshot fatalities. Our sample includes only contested, partisan coroner elections. Preliminary results show no strong discontinuities in cause-specific mortality around the electoral threshold, though opioid and unknown causes exhibit greater variation under Democratic coroners.
-
-
+</small><br><br/></div>
 
 
 [rthornton]: https://www.rebeccathornton.net/
 
-[//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>
+[//]: # "<button onclick='visib(\"polariz\")' class='btn btn--inverse btn--small'>Abstract</button>"
