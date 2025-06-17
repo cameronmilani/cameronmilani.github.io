@@ -54,7 +54,7 @@ In 20 U.S. states, coroners—often without formal medical training—are electe
 <small>[ <a href="#/" onclick="visib('prison')">Abstract</a> ]</small>
 
 <div id="prison" style="display: none; text-align: justify; line-height: 1.2" ><small>
-In 20 U.S. states, coroners—often without formal medical training—are elected along partisan lines, potentially introducing bias into vital statistics. Using a regression discontinuity design and a novel dataset of coroner elections (2006–2023) linked to county-level death records, we estimate the causal effect of a Democrat versus Republican coroner on politically sensitive causes of death, including opioids, COVID-19, and gunshot fatalities. Our sample includes only contested, partisan coroner elections. Preliminary results show no strong discontinuities in cause-specific mortality around the electoral threshold, though opioid and unknown causes exhibit greater variation under Democratic coroners.
+
 </small><br><br/></div>
 
 [rquandt]: https://www.linkedin.com/in/quandt-ryan-121746234
