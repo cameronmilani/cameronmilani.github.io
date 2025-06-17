@@ -54,7 +54,7 @@ In 20 U.S. states, coroners—often without formal medical training—are electe
 <small>[ <a href="#/" onclick="visib('prison')">Abstract</a> ]</small>
 
 <div id="prison" style="display: none; text-align: justify; line-height: 1.2" ><small>
-
+Using a panel dataset of all public and private state prisons, we examine whether the introduction of private prisons affects sentencing decisions. We utilize a doubly robust difference-in-differences design as well as an event study using to find that private prison openings lead to a modest but statistically insignificant increase in sentence lengths, concentrated entirely in the first two months. Public prison openings show no such effect. 
 </small><br><br/></div>
 
 [rquandt]: https://www.linkedin.com/in/quandt-ryan-121746234
