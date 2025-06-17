@@ -1,4 +1,3 @@
-
 ---
 title: "California State University - San Marcos"
 collection: Instructor
