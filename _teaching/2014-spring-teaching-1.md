@@ -4,7 +4,7 @@ collection: Instructor
 type: "Principles of Economics (ECON101)"
 permalink: /teaching/2021-spring-teaching-1
 venue: "San Diego State University, Department of Economics"
-date: "Fall 2020, Spring 2021"
+date: 2020-01-01
 location: "San Diego, CA"
 ---
 
