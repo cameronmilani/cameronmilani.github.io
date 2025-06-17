@@ -10,4 +10,5 @@ location: "San Marcos, CA"
 ---
 
 Semesters: Spring 2024, Fall 2024, Spring 2024<br>
-Principles of economic analysis, economic institutions, and issues of public policy. Emphasis on macroanalysis such as national income analysis, money and banking, business cycles, and economic stabilization.
+<br>
+Principles of economic analysis including gross domestic product, inflation, unemployment, interest rates, monetary policy, fiscal policy, budget deficits, trade deficits, international trade, exchange rates, business cycles, expectations, and a comparison of different macroeconomic schools of thought. 
