@@ -37,3 +37,13 @@ Leaded fuel used by piston-engine aircraft is the largest source of airborne lea
 </script>
 
 [//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>
+
+
+# <center> Working Papers </center>
+
+**The Politics of (Cause of) Death** (with [Rebecca Thornton][rthornton])
+
+
+
+
+[rthornton]: https://www.rebeccathornton.net/
