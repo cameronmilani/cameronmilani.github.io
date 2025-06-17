@@ -1,12 +1,13 @@
+
 ---
 title: "California State University - San Marcos"
-course: "Principles of Microeconomics (ECON201)"
-permalink: /teaching/2022-fall-teaching-1/
+collection: Instructor
+type: "Principles of Microeconomics (ECON201)"
+permalink:  /teaching/2022-fall-teaching-1/
 venue: "Cal State University - San Marcos, Department of Economics"
-start_date: 2022-09-01
-semesters:
-  - "Fall 2022"
-  - "Spring 2024"
-  - "Fall 2024"
+date: "Fall 2022, Spring 2024, Fall 2024"
 location: "San Marcos, CA"
 ---
+
+Principles of economic analysis, economic institutions, and issues of public policy. Emphasis on macroanalysis such as national income analysis, money and banking, business cycles, and economic stabilization.
+
