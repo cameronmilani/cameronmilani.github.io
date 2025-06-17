@@ -9,5 +9,6 @@ location: "San Diego, CA"
 ---
 
 Semesters: Fall 2020, Spring 2021<br>
+<br>
 Principles of economic analysis, economic institutions, and issues of public policy. Emphasis on macroanalysis such as national income analysis, money and banking, business cycles, and economic stabilization.
 
