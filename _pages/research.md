@@ -50,7 +50,7 @@ In 20 U.S. states, coroners—often without formal medical training—are electe
 [rthornton]: https://www.rebeccathornton.net/
 
 
-**The Effect of Privatization on Prison Populations** (with [Ryan Quandt][rquandt] and [Christopher Sharp][csharp],<br/>
+**The Effect of Privatization on Prison Populations** (with [Ryan Quandt][rquandt] and [Christopher Sharp][csharp])<br/>
 <small>[ <a href="#/" onclick="visib('prison')">Abstract</a> ]</small>
 
 <div id="prison" style="display: none; text-align: justify; line-height: 1.2" ><small>
