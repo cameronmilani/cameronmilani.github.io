@@ -4,7 +4,7 @@ collection: Instructor
 type: "Principles of Microeconomics (ECON201)"
 permalink: /teaching/2022-fall-CSUSM/
 venue: "Cal State University - San Marcos, Department of Economics"
-date: "Fall 2022, Spring 2024, Fall 2024"
+date: 2022-01-01
 location: "San Marcos, CA"
 ---
 
