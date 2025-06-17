@@ -19,7 +19,7 @@ Leaded fuel used by piston-engine aircraft is the largest source of airborne lea
 </small><br><br/></div>
 
 [Avgas]: {{ site.baseurl }}{% link assets/Avgas.pdf %}
-[rshadbegian]: https://economics.sdsu.edu/faculty/shadbegian
+[rshadbegian]: https://economics.appstate.edu/directory/dr-ron-shadbegian
 [lbui]: https://www.brandeis.edu/facultyguide/person.html?emplid=a2a26a666400fbde3bf078b9d572fa111027ce61
 [hklemick]: https://scholar.google.com/citations?user=v-sHJEgAAAAJ&hl=en
 [dguigent]: https://economics.appstate.edu/directory/dennis-guignet-phd
