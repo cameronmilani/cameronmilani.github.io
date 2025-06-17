@@ -8,4 +8,5 @@ date: "Fall 2022, Spring 2024, Fall 2024"
 location: "San Marcos, CA"
 ---
 
+Semesters: Fall 2022, Spring 2024, Fall 2024<br>
 Principles of economic analysis focusing on individual decision-making, market behavior, supply and demand, price determination, consumer choice, and firm production decisions.
