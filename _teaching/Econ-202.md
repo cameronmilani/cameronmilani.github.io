@@ -9,4 +9,5 @@ semesters: "Spring 2024, Fall 2024, Spring 2025"
 location: "San Marcos, CA"
 ---
 
+Semesters: Spring 2024, Fall 2024, Spring 2024
 Principles of economic analysis, economic institutions, and issues of public policy. Emphasis on macroanalysis such as national income analysis, money and banking, business cycles, and economic stabilization.
