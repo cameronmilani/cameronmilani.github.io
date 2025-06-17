@@ -9,5 +9,4 @@ date: "Fall 2022, Spring 2024, Fall 2024"
 location: "San Marcos, CA"
 ---
 
-Principles of economic analysis, economic institutions, and issues of public policy. Emphasis on macroanalysis such as national income analysis, money and banking, business cycles, and economic stabilization.
-
+Principles of economic analysis focusing on individual decision-making, market behavior, supply and demand, price determination, consumer choice, and firm production decisions.
