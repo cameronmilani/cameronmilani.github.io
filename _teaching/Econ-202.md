@@ -4,6 +4,7 @@ collection: Instructor
 type: "Principles of Macroeconomics (ECON202)"
 permalink: /teaching/Econ-202/
 venue: "Cal State University - San Marcos, Department of Economics"
+date: 2024-01-01
 semesters: "Spring 2024, Fall 2024, Spring 2025"
 location: "San Marcos, CA"
 ---
