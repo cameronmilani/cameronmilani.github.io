@@ -39,6 +39,12 @@ Leaded fuel used by piston-engine aircraft is the largest source of airborne lea
 
 
 # <center> Working Papers </center>
+**The Psychological Effects of Minimum Wage Increases: An Analysis of Youth Outcomes**<br/>
+<small>[ <a href="#/" onclick="visib('minimum wage')">Abstract</a> ]</small>
+
+<div id="minimum wage" style="display: none; text-align: justify; line-height: 1.2" ><small>
+This research contributes to a growing literature that examines the impact of minimum wage increases on suicide and depression. Using the Youth Risk Behavioral Survey (YRBS) for years 1991-2019, and a difference-in-differences estimation strategy, I analyze the impact that minimum wage hikes have on youth suicidal thoughts and depression. I find that increases in the minimum wage have a positive effect in reducing youth depression and suicidal ideation. The effects are most compelling for underrepresented groups such as Latinos. Event-study analyses are used to provide further evidence that these estimates can be causally interpreted. These findings underscore that labor market policies can have nuanced impacts on adolescent mental health, highlighting the importance of considering heterogeneous effects across demographic groups.</small><br><br/></div>
+
 
 **The Politics of (Cause of) Death** (with [Rebecca Thornton][rthornton])<br/>
 <small>[ <a href="#/" onclick="visib('coroner')">Abstract</a> ]</small>
