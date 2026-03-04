@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth year Ph.D. student in Economics at Claremont Graduate University. My interests are in labor economics and environmental economics. I am particularly interested in the labor and human capital impacts of workforce training, and I am deeply motivated by a longstanding interest to enhance economic mobility for underserved populations. Methodologically, I utilize quasi-experimental research designs to evaluate program efficacy and to assess the impact that various skills have on job readiness.
+I am a fifth year Ph.D. student in Economics at Claremont Graduate University. My interests are in urban economics and environmental economics. I am particularly interested in the human capital impacts of homelessness, and I am deeply motivated by a longstanding interest to enhance economic mobility for the underserved populations. Methodologically, I utilize quasi-experimental research designs to evaluate program efficacy and to assess the impact that various regulations have on housing stability.
 
 I received my undergraduate education in economics from UCLA and went on to pursue a master's degree in economics from San Diego State University.
 
